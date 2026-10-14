@@ -1,11 +1,8 @@
 # Neobank Digital Transaction Health Monitor
 ## How a compliance badge became a backdoor
 
-**Author:** Johanna Ezedinma    
+ 
 **Date:** June 2026
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johanna-ezedinma/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johannaezedinma)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johanna-Ezedinma)
 
 ---
 
@@ -199,11 +196,6 @@ evidence is not a risk control. It is a false sense of security.
 ├── Neobank digital transaction health monitor_risk.jpg
 └── Neobank digital transaction health monitor_recommendations.jpg
 ```
----
-
-## Links
-
-**Challenge:** [Onyx Data DataDNA June 2026](https://datadna.onyxdata.co.uk)
 
 ---
 
